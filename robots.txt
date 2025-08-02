@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pansybreeze.com/sitemap.xml
